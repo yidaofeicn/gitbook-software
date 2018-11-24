@@ -1,0 +1,13 @@
+
+#python
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+#gitbook
+node_modules
+_book
+*.md

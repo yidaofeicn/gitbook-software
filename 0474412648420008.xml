@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[编程专业软件简易使用教程]]></title>
+        <description><![CDATA[主要是记录一些关于编程专业软件的使用方法以及相关的推荐]]></description>
+        <link>yidaofeicn.github.io/softwareGit</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 24 Nov 2018 16:46:33 GMT</lastBuildDate>
+        <atom:link href="http://feed43.com/0474412648420008.xml" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[yidaofeicn]]></author>
+        <category><![CDATA[git]]></category>
+        <category><![CDATA[sublime]]></category>
+        <category><![CDATA[gitbook]]></category>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <description><![CDATA[本书主要是介绍关于一些软件的设置与使用方法]]></description>
+            <link>yidaofeicn.github.io/softwareGit</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGit</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[资源推荐]]></title>
+            <description><![CDATA[本章节主要是记录工作与生活中遇到的一些觉得比较好的软件与网站 :smile:]]></description>
+            <link>yidaofeicn.github.io/softwareGitsoftware/README.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitsoftware/README.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[|应用名|推荐理由|
+|:--|:--|
+|APKure|google应用市场免翻墙下载器|
+|酷市场|国内比较有趣的应用市场，评论区很有意思|]]></description>
+            <link>yidaofeicn.github.io/softwareGitsoftware/android.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitsoftware/android.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[|软件名|推荐理由|
+|:--|:--|
+|Xmind  |国产免费好用|
+|幕布|兼具清单软件和思维导图软件优点的神器  |
+|Workflowy  ||]]></description>
+            <link>yidaofeicn.github.io/softwareGitsoftware/windows.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitsoftware/windows.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[|网站|主要用途|
+|:--|:--|
+|HippTer||
+|OfficePlus|微软office官方PPT模板|
+|牛大拿设计师导航||
+|unsplash|图片资源网站|
+|trianglify|多边形背景图|
+|人人秀||]]></description>
+            <link>yidaofeicn.github.io/softwareGitsoftware/internet.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitsoftware/internet.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[|插件|主要用途|
+|:--|:--|
+|Listen  1|包含了网易云音乐，虾米，QQ音乐, 酷狗音乐，酷我音乐的曲库|
+|Adblock Plus |广告拦截-必装神器|
+|广告终结者    |广告拦截-必装神器|
+|易撤销(历史关闭助手)       |广告拦截|
+|Tampermonkey             |油猴-必装神器|
+|为知笔记网页剪辑器         |网页截取插件，配合 wiz 笔记|
+|Block Site    |限制访问某些网站|]]></description>
+            <link>yidaofeicn.github.io/softwareGitsoftware/chrome-plugin.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitsoftware/chrome-plugin.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Sublime简易教程]]></title>
+            <link>yidaofeicn.github.io/softwareGitsublime/README.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitsublime/README.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Sublime 初学者教程]]></title>
+            <description><![CDATA[直接到 官网sublime2选择合适的版本下载即可，Windows、
+Mac 和 Linux 系统都有。]]></description>
+            <link>yidaofeicn.github.io/softwareGitsublime/sublime-base-config.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitsublime/sublime-base-config.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Sublime 插件配置]]></title>
+            <description><![CDATA[Markdown Editing 视图左边会空出一块区域，进行如下操作设置：]]></description>
+            <link>yidaofeicn.github.io/softwareGitsublime/sublime-plugin-config.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitsublime/sublime-plugin-config.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[Markdown 是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法实现「易读易写」。]]></description>
+            <link>yidaofeicn.github.io/softwareGitmarkdown/README.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitmarkdown/README.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Markdown 编辑器清单]]></title>
+            <description><![CDATA[本人只用过 Cmd markdown 与 sublime text2+markdown-editing，两者主要的特点是：]]></description>
+            <link>yidaofeicn.github.io/softwareGitmarkdown/markdown-editor.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitmarkdown/markdown-editor.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[GFM 语法不同之处]]></title>
+            <description><![CDATA[GitHub 全站支持 “GitHub 风格的 Markdown 语法”（简称 GFM），你可以用它来书写 issue、pull request（以下简称 “PR”）
+和各种评论。它和  标准 Markdown 语法（SM）相比，存在一些值得注意的差异，并且增加了一些额外功能。]]></description>
+            <link>yidaofeicn.github.io/softwareGitmarkdown/gfm-difference.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitmarkdown/gfm-difference.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[GFM语法解析]]></title>
+            <link>yidaofeicn.github.io/softwareGitmarkdown/gfm-rule.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitmarkdown/gfm-rule.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[GitHub的官方网页http://www.emoji-cheat-sheet.com]]></description>
+            <link>yidaofeicn.github.io/softwareGitmarkdown/gfm-emoji.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitmarkdown/gfm-emoji.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[markdown小技巧]]></title>
+            <description><![CDATA[本段规则项转载参考资料1，如有侵权请告知会及时处理]]></description>
+            <link>yidaofeicn.github.io/softwareGitmarkdown/markdown-skills.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitmarkdown/markdown-skills.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[使用Gitbook]]></title>
+            <description><![CDATA[GitBook 是一个提供 Markdown 书籍托管的网络平台， 支持通过 git 以及 GitHub 进行文档管理，使用它可以很简单地生
+成、发布电子图书。 同时，GitBook 也是一个 Node.js 命令行工具，可以使用它搭建自己的 GitBook 站点。]]></description>
+            <link>yidaofeicn.github.io/softwareGitgitbook/README.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitgitbook/README.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[安装并使用 gitbook]]></title>
+            <description><![CDATA[首先确认实验环境是：windows 10 x64，基础开发环境配置有 JDK1.8.0、Maven3.5.4、GIT2.18]]></description>
+            <link>yidaofeicn.github.io/softwareGitgitbook/gitbook-install.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitgitbook/gitbook-install.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[book 配置文件参数]]></title>
+            <description><![CDATA[book 配置文件参数官方文档]]></description>
+            <link>yidaofeicn.github.io/softwareGitgitbook/gitbook-config.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitgitbook/gitbook-config.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[主题配置]]></title>
+            <description><![CDATA[目前 GitBook 提供了三类文档： Book 文档、API 文档、FAQ 文档。我们常用的就是 Book 文档模式，如果我们需要使用 API 文档模式或者 FAQ 文档模式，只需引入文档对应的主题插件即可，下面我们介绍与这三类文档相关的主题插件。]]></description>
+            <link>yidaofeicn.github.io/softwareGitgitbook/gitbook-theme-config.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitgitbook/gitbook-theme-config.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[推荐插件]]></title>
+            <description><![CDATA[插件官网]]></description>
+            <link>yidaofeicn.github.io/softwareGitgitbook/gitbook-plugin-config.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitgitbook/gitbook-plugin-config.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[导出与发布]]></title>
+            <description><![CDATA[gitbook 一般展现的方式是PDF、静态网站，后者表现形式离线版( “_book目录”文件)、gitbook、githubPage
+本文主要介绍 PDF 导出、githubPage]]></description>
+            <link>yidaofeicn.github.io/softwareGitgitbook/gitbook-export-publish.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitgitbook/gitbook-export-publish.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[推荐插件]]></title>
+            <description><![CDATA[插件官网]]></description>
+            <link>yidaofeicn.github.io/softwareGitgitbook/gitbook-plugin-test.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitgitbook/gitbook-plugin-test.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[book.json文件]]></title>
+            <link>yidaofeicn.github.io/softwareGitgitbook/gitbook-bookjson.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitgitbook/gitbook-bookjson.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[安装配置问题汇总]]></title>
+            <description><![CDATA[根据网络资料查询主要问题出在 gitbook 版本在 Version 3版本 之后就不在支持静态网站，所以我们需要将 gitbook 版本降低，版本降低到哪个版本主要考虑 gitbook 插件对主程序版本要求]]></description>
+            <link>yidaofeicn.github.io/softwareGitgitbook/gitbook-install-plugin-QA.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitgitbook/gitbook-install-plugin-QA.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[自建博客有以下问题是必须考虑的：]]></description>
+            <link>yidaofeicn.github.io/softwareGitpiwigo/README.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitpiwigo/README.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[LAMP 基础环境搭建]]></title>
+            <description><![CDATA[Piwigo 使用 PHP 构建，所以本文先以如何搭建 LAMP 环境为主，解决使用 Piwigo 的第一步，如你已经搭建好 LAMP 环境则可直接跳
+到 Piwigo 具体使用章节。]]></description>
+            <link>yidaofeicn.github.io/softwareGitpiwigo/LAMP-install-config.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitpiwigo/LAMP-install-config.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[FTP 服务器搭建]]></title>
+            <description><![CDATA[vsftpd 是 “very secure FTP daemon” 的缩写，是一款在 Linux 发行版中最受推崇的 FTP 服务器程序。特点是小巧轻快，安全
+易用。支持很多其他的 FTP 服务器所不支持的特征，比如：非常高的安全性需求、带宽限制、良好的可伸缩性、可创建虚拟用户、支持
+IPv6、速率高等。]]></description>
+            <link>yidaofeicn.github.io/softwareGitpiwigo/build-ftpserver.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitpiwigo/build-ftpserver.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Piwigo 基础配置与使用]]></title>
+            <description><![CDATA[LAMP 环境、FTP 服务器（关乎 FTP 上传）是否配置好？如否请查看前两篇文章 《LAMP 基础环境搭建》、《FTP 服务器搭建》]]></description>
+            <link>yidaofeicn.github.io/softwareGitpiwigo/piwigo-base-config-use.html</link>
+            <guid isPermaLink="true">yidaofeicn.github.io/softwareGitpiwigo/piwigo-base-config-use.html</guid>
+            <dc:creator><![CDATA[yidaofeicn]]></dc:creator>
+        </item>
+    </channel>
+</rss>
